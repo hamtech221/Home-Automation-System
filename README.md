@@ -5,6 +5,12 @@ This project is an embedded home automation system designed to control household
 
 ---
 
+## 📁 Development Environment
+- IDE: Atmel Studio 7.0  
+- Microcontroller: ATmega328P  
+- Language: Embedded C
+
+- -
 ## ⚙️ Features
 - Bluetooth-based wireless control of appliances  
 - UART communication at 9600 baud  
