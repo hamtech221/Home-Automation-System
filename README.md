@@ -55,7 +55,7 @@ Key implementation details:
 
 ## 📸 Hardware Prototype
 
-![Hardware](Image/Hardware.jpg)
+![Prototype](Image/Hardware.jpeg)
 
 **Prototype Hardware Setup (ATmega328P + Relay Control + Bluetooth Interface)**  
 Physical implementation of the system demonstrating real-time appliance control via Bluetooth.
