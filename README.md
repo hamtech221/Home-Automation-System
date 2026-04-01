@@ -10,7 +10,8 @@ This project is an embedded home automation system designed to control household
 - Microcontroller: ATmega328P  
 - Language: Embedded C
 
-- -
+---
+
 ## ⚙️ Features
 - Bluetooth-based wireless control of appliances  
 - UART communication at 9600 baud  
